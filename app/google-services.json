@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681808423548",
+    "project_id": "test2-e2900",
+    "storage_bucket": "test2-e2900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681808423548:android:104567d05f83de4348f7f9",
+        "android_client_info": {
+          "package_name": "com.test2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681808423548-j38lhg0fr89u34oakf7vhqj6m18hrbo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ94h97Q8EFKlGliKpVPDUWVLPhlRnwNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681808423548-j38lhg0fr89u34oakf7vhqj6m18hrbo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
